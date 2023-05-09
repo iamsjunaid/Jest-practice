@@ -3,6 +3,6 @@ const stringLength = (string) => {
     throw Error('Error Message');
   }
   return string.length;
-}
+};
 
-module.exports = stringLength ;
+module.exports = stringLength;
